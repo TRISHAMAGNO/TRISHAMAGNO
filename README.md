@@ -7,9 +7,3 @@
 - 📫Email me @ TrishaMagno2001@gmail.com
 - 📍Our Store is located @Sampaloc Bolinao 
 - 🔗 We look forward seeing you here! 
-
-
-
-
-
--->
