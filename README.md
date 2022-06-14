@@ -1,9 +1,6 @@
 👋 Hi I am Trisha Magno
 
-<!--
-**TRISHAMAGNO/TRISHAMAGNO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - ☕I am the owner of Coffee Express
 - ☎Give us a call at 09636780533
